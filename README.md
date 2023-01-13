@@ -1,6 +1,13 @@
 # KUBERNETES CUSTOM OPERATOR PoC
 
+<div style="width: 60%; height: 60%">
+
+  ![](images/logo.png)
+</div>
+
 Build your own Kubernetes operator!
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Abstract
 From the official Kubernetes <a href="https://kubernetes.io/docs/concepts/extend-kubernetes/operator/">documentation</a>:  
