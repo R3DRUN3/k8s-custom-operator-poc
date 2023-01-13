@@ -1,0 +1,14 @@
+apiVersion: poc.test.domain/v1
+kind: MyCustomResource
+metadata:
+  name: my-custom-resource-01
+spec:
+  name: funny-joe
+
+---
+apiVersion: poc.test.domain/v1
+kind: MyCustomResource
+metadata:
+  name: my-custom-resource-02
+spec:
+  name: thinking-karen
