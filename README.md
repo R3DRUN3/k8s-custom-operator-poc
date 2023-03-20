@@ -497,6 +497,8 @@ You can repeat the same flow also for the second MyCustomResource and see how it
 
 <br/>
 
+NOTE: for another operator example, take a look at <a href="https://github.com/stackzoo/operator-blueprint">this</a>.
+
 
 
 
